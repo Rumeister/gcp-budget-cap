@@ -1,5 +1,5 @@
 <p align=center vertical-align: middle; padding:20px 0;">
-	<img src="./assets/sada-social.png" style="padding-left: 220px; padding-right:220px; padding-top:20px; padding-bottom:20px" width="50%">
+	<img src="./assets/sada-social.png" style="padding-left: 220px; padding-right:220px; padding-top:20px; padding-bottom:20px" width="80%">
 </p>
 
 <center>
