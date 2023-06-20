@@ -1,5 +1,5 @@
 <p align=center vertical-align: middle; padding:20px 0;">
-	<img src="./assets/sada-social.png" style="padding-left: 220px; padding-right:220px; padding-top:20px; padding-bottom:20px" width="80%">
+	<img src="./assets/sada-social.png" style="padding-left: 220px; padding-right:220px; padding-top:20px; padding-bottom:20px" width="100%">
 </p>
 
 <center>
@@ -358,7 +358,9 @@ With billing disabled:
 - Cloud Logging is still accessible within the project, even with billing disabled. 
 - Upon re-enabling billing, all instances and clusters automatically started back up and became accessible within minutes. This was not tested over multiple days, so results may vary depending on how long billing is disabled for your project. 
 
-#### This solution is not recommended for production projects and should only be implemented in sandbox/dev type environments. 
+> **Note**
+>
+> This solution is not recommended for production projects and should only be implemented in sandbox/dev type environments.
 
 ## Resources
 
